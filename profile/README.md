@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 - Back-end :
-- 협업 툴 : Notion
-- 디자인 : Figma
+- 협업 툴 : <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+- 디자인 : <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 ## 3. 설계
 ### 메뉴 구조도
 <img src="https://github.com/user-attachments/assets/e9afa5a2-1b22-439d-a33c-735e2ae3856a" alt="Menu structure diagram" width="500"/>
