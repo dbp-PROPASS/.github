@@ -98,7 +98,7 @@
 ### [Schedule Manage]
 - 로그인 후 메인 페이지로 전환되며, 일정 관리 기능을 제공합니다.
 - 자신이 즐겨찾기한 자격증의 시험 접수 시작일, 시험 접수 마감일, 시험일, 결과 발표일 등을 제공받을 수 있습니다.
-<img src="https://github.com/user-attachments/assets/0fdab313-6fa8-4698-a014-141042c30da3" alt="ScheduleManage" width="500"/>
+<img src="https://github.com/user-attachments/assets/ebd02ed9-af74-4ff1-8a43-f120b75b02cc" alt="ScheduleManage" width="500"/>
 
 ### [CertificateList]
 - 사용자가 검색하여 선택한 자격증의 상세 정보를 제공합니다.
