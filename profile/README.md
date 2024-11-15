@@ -79,11 +79,8 @@
 
 ### [Community Post]
 - 사용자의 게시글과 그에 대한 댓글을 볼 수 있는 화면입니다.
-- 익명을 통한 사용자간의 자유로운 소통이 가능합니다. 
+- 익명을 통해 사용자들간의 자유로운 소통이 가능합니다. 
 <img src="https://github.com/user-attachments/assets/1cd0081c-2cac-4e77-87c6-ed45589d8cd8" alt="CommunityPost" width="500"/>
-
-![제목 없음]()
-
 
 ### [My Page]
 - 사용자의 개인정보 (이름, 연락처 등)를 수정할 수 있는 화면입니다.
