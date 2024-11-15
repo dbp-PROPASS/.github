@@ -71,10 +71,19 @@
 - 사용자가 검색하여 선택한 자격증의 상세 정보를 제공하는 화면입니다.
 - 회차, 응시료, 합격률 등의 정보를 제공하며, 사용자의 관심 자격증으로 등록할 수 있는 기능을 제공합니다.
 
-### [community]
+### [Community]
 - 사용자 간 소통을 위한 게시판입니다.
-- 카테고리를 선택해 원하는 분야에서 유저들과 자유로운 소통이 가능합니다.
-<img src="https://github.com/user-attachments/assets/7697b95d-d62b-4402-aa01-9b1b75eea6cc" alt="comunity" width="500"/>
+- 카테고리를 선택해 원하는 분야에서 자유롭게 게시글을 작성할 수 있습니다.
+- 검색 기능을 통해, 원하는 글들을 모아 볼 수 있습니다.
+<img src="https://github.com/user-attachments/assets/7697b95d-d62b-4402-aa01-9b1b75eea6cc" alt="Comunity" width="500"/>
+
+### [Community Post]
+- 사용자의 게시글과 그에 대한 댓글을 볼 수 있는 화면입니다.
+- 익명을 통한 사용자간의 자유로운 소통이 가능합니다. 
+<img src="https://github.com/user-attachments/assets/1cd0081c-2cac-4e77-87c6-ed45589d8cd8" alt="CommunityPost" width="500"/>
+
+![제목 없음]()
+
 
 ### [My Page]
 - 사용자의 개인정보 (이름, 연락처 등)를 수정할 수 있는 화면입니다.
