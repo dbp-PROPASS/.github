@@ -10,7 +10,7 @@
     <tr>
       <td align="center"><a href="https://github.com/pyqvv"><img src="https://github.com/user-attachments/assets/b7b23029-f456-491a-9ad6-9063ee30060e" width="100px;" alt=""/><br /><sub><b>신서영</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/H8bubble"><img src="https://github.com/user-attachments/assets/8d63ca25-340f-47ba-9595-9f5ea5085e87" width="100px;" alt=""/><br /><sub><b>박현빈</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kyungeune"><img src="https://github.com/user-attachments/assets/1a0184f6-ca07-48b7-b9d9-9f8f8e388958" width="100px;" alt=""/><br /><sub><b>신경은</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kyungeune"><img src="https://github.com/user-attachments/assets/33e9cde7-9bdc-4731-a9a2-340a54a3b82f" width="100px;" alt=""/><br /><sub><b>신경은</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Ss-HhJin"><img src="https://github.com/user-attachments/assets/d3dbfdf9-1cb3-4ac5-8eeb-cbbd34498444" width="100px;" alt=""/><br /><sub><b>신해진</b></sub></a><br /></td>
      <tr/>
   </tbody>
