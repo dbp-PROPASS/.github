@@ -97,12 +97,11 @@
 - 사용자가 검색하여 선택한 자격증의 상세 정보를 제공합니다.
 - 회차, 응시료, 합격률 등의 정보를 제공하며, 사용자가 관심 자격증으로 등록할 수 있습니다.
 <img src="https://github.com/user-attachments/assets/63797f73-36ba-4351-b3b0-8e2e9042581f" alt="certificateList" width="500"/>
+
 ### [CertificateInfo]
-- 사용자가 검색하여 선택한 자격증의 상세 정보를
-제공한다.
-- 회차, 응시료, 합격률 등의 정보를 제공하며, 사용자가
-관심 자격증으로 등록할 수 있도록 한다.
-<img src="https://github.com/user-attachments/assets/f2faca46-a740-407f-ade1-78129f224954" alt="certificateList" width="500"/>
+- 사용자가 검색하여 선택한 자격증의 상세 정보를 제공합니다.
+- 회차, 응시료, 합격률 등의 정보를 제공하며, 사용자가 관심 자격증으로 등록할 수 있습니다.
+<img src="https://github.com/user-attachments/assets/4700809c-2e0b-4dce-9fa9-399e0b9878c5" alt="certificateList" width="500"/>
 
 ### 6. 트러블슈팅
 ### 7. 프로젝트 후기
