@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 - Back-end :
-  <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=HTML5&logoColor=white">
 - 협업 툴 :
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -37,9 +37,9 @@
 
 ## 4. 개발 기간 및 작업 관리
 ### 개발 기간
-- 전체 개발 기간 : 2024-11-11 ~ 2024-12-??
-- UI 구현 : 2024-11-11 ~ 2024-12-??
-- 기능 구현 : 2024-11-?? ~ 2024-12-??
+- 전체 개발 기간 : 2024-11-11 ~ 2024-12-04
+- UI 구현 : 2024-11-11 ~ 2024-12-04
+- 기능 구현 : 2024-11-18 ~ 2024-12-04
 ### 작업 관리
 - 주간회의를 진행하며 프로젝트를 논의하고, 회의 내용을 Notion에 기록했습니다.
 ## 5. 페이지별 기능
