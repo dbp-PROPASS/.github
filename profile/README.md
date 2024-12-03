@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 - Back-end :
-  
+  <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=HTML5&logoColor=white">
 - 협업 툴 :
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
